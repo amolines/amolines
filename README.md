@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 <div align="centre">
-[![GitHub followers](https://img.shields.io/github/followers/amolines?label=Follow&style=social)](https://github.com/amolines/?tab=follow)
-![visitors](https://hit-badger.glitch.me/badge?page_id=amolines.amolines)
+
+[![GitHub followers](https://img.shields.io/github/followers/BionStt?label=Follow&style=social)](https://github.com/BionStt/?tab=follow)
+![visitors](https://hit-badger.glitch.me/badge?page_id=BionStt.BionStt)
  </div>
 
 **Languages, Frameworks, and Tools:**  
