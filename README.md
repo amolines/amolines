@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="centre">
 
+[![GitHub followers](https://img.shields.io/github/followers/amolines?label=Follow&style=social)](https://github.com/amolines/?tab=follow)
+![visitors](https://hit-badger.glitch.me/badge?page_id=amolines.amolines)
+ </div>
 
 **Languages, Frameworks, and Tools:**  
 
